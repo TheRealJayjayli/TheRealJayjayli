@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @TheRealJayjayli
-- 🧠 I can't code! 
+But it works on my machine!
 
 <!---
 TheRealJayjayli/TheRealJayjayli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
